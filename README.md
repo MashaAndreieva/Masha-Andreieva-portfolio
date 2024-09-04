@@ -25,7 +25,7 @@
   
 I'm currently seeking positions at consulting firms that specialize in providing advisory services to government entities and businesses.
 
--  # Portfolio
+- # Portfolio
   + Data visualization critiques
     * Part I: a project proposal
     * Part II: Sketches, wireframes, storyboards
