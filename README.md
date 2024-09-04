@@ -13,7 +13,7 @@
  * Russian
  * Ukrainian
  * French _
-![Pittsburgh] (https://cdn.britannica.com/74/65574-050-B1A02E0C/Downtown-Pittsburgh-Pennsylvania-Fort-Pitt-Bridge-Monongahela.jpg)
+![Pittsburgh](https://cdn.britannica.com/74/65574-050-B1A02E0C/Downtown-Pittsburgh-Pennsylvania-Fort-Pitt-Bridge-Monongahela.jpg)
 # What I hope to learn
 + Gain an understanding of data visualization principles.
 + Create a publicly accessible portfolio that demonstrates knowledge gained during the course.
