@@ -6,13 +6,13 @@
  * Led a cross-chapter initiative to strengthen local media landscape in the US.
  * Drafted advocacy documents supporting public interest positions on privacy-related issues.
    
- I relocated to the United States a year ago and currently reside in Pittsburgh.
+ I relocated to the United States a year ago and currently reside in Pittsburgh:earth_americas:. 
  
  Here are the languages I speak:
  * English
  * Russian
  * Ukrainian
- * French _
+ * French 
 ![Pittsburgh](https://cdn.britannica.com/74/65574-050-B1A02E0C/Downtown-Pittsburgh-Pennsylvania-Fort-Pitt-Bridge-Monongahela.jpg)
 # What I hope to learn
 + Gain an understanding of data visualization principles.
